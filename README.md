@@ -16,6 +16,8 @@ The files included are:
 1. The front of the opaque sheet (SVG)
 2. The back of the opaque sheet (SVG)
 3. The back of the transparent sheet (it's etched in reverse!) (SVG)
+ a. One version contains many stars...
+ b. ... while the other only contains my favorite guide stars.
 4. The OpenSCAD source for the pointer
 5. The STL file for the pointer
 6. A Jupyter notebook that generates the original SVG files, which were then manually cleaned and formatted for our laser cutter.
